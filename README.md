@@ -6,7 +6,7 @@
 
 | Yep thats me | Im a night owl |
 |---|---|
-| ![Coder GIF](coder.gif) | Graduate computer science student at RIT. SDE with a good sense of UI/UX. Interested in computer vision and generative AI. |
+| ![Coder GIF](coder.gif) | Graduate computer science student at RIT.Fullstack SDE with a good sense of UI/UX. Keen interest in computer vision and generative AI. |
 
 
 ---
