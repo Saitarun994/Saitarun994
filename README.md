@@ -3,7 +3,11 @@
 </h1> 
 
 ### 💫 About Me:
-Graduate computer science student at RIT. SDE with a good sense of UI/UX. Interested in computer vision and generative AI.
+
+| Yep thats me | Im a night owl |
+|---|---|
+| ![Coder GIF](coder.gif) | Graduate computer science student at RIT. SDE with a good sense of UI/UX. Interested in computer vision and generative AI. |
+
 
 ---
 
