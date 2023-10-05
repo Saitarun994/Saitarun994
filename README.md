@@ -22,18 +22,7 @@
 <img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" alt="figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <br />
-
-
-# 
-
-.image-container {
-  display: flex;
-  justify-content: center;
-}
-
-img.centered {
-  max-width: 40%;
-}
+<br />
 
 # 📊 GitHub Stats:
 <div class="image-container">
