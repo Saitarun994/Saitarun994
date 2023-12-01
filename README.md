@@ -55,7 +55,7 @@
 # 💫 Minor Projects 
 
 <!-- BEGIN PROJECT-CARDS -->
-[![Discount Scout](https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/Logo%20discount%20scout.png)](https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md)
+[![Discount Scout](https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/logo.png)](https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md)
 [![Reliable UDP](https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png)](https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme)
 <!-- END PROJECT-CARDS -->
 
