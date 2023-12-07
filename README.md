@@ -44,11 +44,11 @@
 
 <!-- BEGIN PROJECT-CARDS -->
 [![Tale Forge](https://github.com/Saitarun994/tale-forge/blob/main/media/cover.png?raw=true "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://github.com/Saitarun994/tale-forge#readme)
-[![Heimdall](https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png)]([https://www.youtube.com/watch?v=YuJ6jEb3bOQ](https://github.com/Saitarun994/Heimdall/blob/main/README.md))
-[![Trivia Odyssyey](https://github.com/Saitarun994/trivia-odyssey/blob/main/media/cover.png)]([https://www.youtube.com/watch?v=R-1xJTFknc8](https://github.com/Saitarun994/trivia-odyssey/blob/main/readme.md))
+[![Heimdall](https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png)]([https://www.youtube.com/watch?v=YuJ6jEb3bOQ](https://github.com/Saitarun994/Heimdall/blob/main/README.md)
+[![Trivia Odyssyey](https://github.com/Saitarun994/trivia-odyssey/blob/main/media/cover.png)]([https://www.youtube.com/watch?v=R-1xJTFknc8](https://github.com/Saitarun994/trivia-odyssey/blob/main/readme.md)
 [![Park Right](https://github.com/Saitarun994/Park-Right/blob/main/media/cover.png)](https://github.com/Saitarun994/Park-Right/blob/main/README.md)
 [![Road Sense](https://github.com/Saitarun994/Road-Sense/blob/main/preview.png)](https://github.com/Saitarun994/Road-Sense/blob/main/README.md)
-[![Mocap for All](https://github.com/Saitarun994/Mocap-for-All/blob/main/media/cover.png)]([https://www.youtube.com/watch?v=Xug2bQLvovU](https://github.com/Saitarun994/Mocap-for-All/blob/main/README.md))
+[![Mocap for All](https://github.com/Saitarun994/Mocap-for-All/blob/main/media/cover.png)]([https://www.youtube.com/watch?v=Xug2bQLvovU](https://github.com/Saitarun994/Mocap-for-All/blob/main/README.md)
 <!-- END PROJECT-CARDS -->
 
 
