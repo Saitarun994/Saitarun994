@@ -77,10 +77,10 @@
 
 <!-- BEGIN PROJECT-CARDS -->
 <a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/logo.png" alt="Discount Scout" style="width:30%;">
+  <img src="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/logo.png" alt="Discount Scout" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme">
-  <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png" alt="Reliable UDP" style="width:30%;">
+  <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png" alt="Reliable UDP" style="width:35%;">
 </a>
 <!-- END PROJECT-CARDS -->
 
