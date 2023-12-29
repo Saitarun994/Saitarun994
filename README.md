@@ -46,20 +46,42 @@
 # 🌟 Major Projects 
 
 <!-- BEGIN PROJECT-CARDS -->
-[![Tale Forge](https://github.com/Saitarun994/tale-forge/blob/main/media/cover.png?raw=true "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://github.com/Saitarun994/tale-forge#readme)
-[![Heimdall](https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png)](https://github.com/Saitarun994/Heimdall/tree/main#readme)
-[![Trivia Odyssyey](https://github.com/Saitarun994/trivia-odyssey/blob/main/media/cover.png)](https://github.com/Saitarun994/trivia-odyssey#readme)
-[![Park Right](https://github.com/Saitarun994/Park-Right/blob/main/media/cover.png)](https://github.com/Saitarun994/Park-Right/blob/main/README.md)
-[![Road Sense](https://github.com/Saitarun994/Road-Sense/blob/main/preview.png)](https://github.com/Saitarun994/Road-Sense/blob/main/README.md)
-[![Mocap for All](https://github.com/Saitarun994/Mocap-for-All/blob/main/media/cover.png)](https://github.com/Saitarun994/Mocap-for-All/tree/main#readme)
+<div style="display: flex;">
+  <a href="https://github.com/Saitarun994/tale-forge#readme" style="flex: 1; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/tale-forge/blob/main/media/cover.png?raw=true" alt="Tale Forge" style="width:500px; height: 200px; object-fit: cover;">
+  </a>
+  <a href="https://github.com/Saitarun994/Heimdall/tree/main#readme" style="flex: 1; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png" alt="Heimdall" style="width:500px; height: 200px; object-fit: cover;">
+  </a>
+</div>
+<div style="display: flex;">
+  <a href="https://github.com/Saitarun994/trivia-odyssey#readme" style="flex: 1; object-fit: cover; width:500px; overflow: hidden;">
+    <img src="https://github.com/Saitarun994/trivia-odyssey/blob/main/media/cover.png" alt="Trivia Odyssey" style="width:500px; height: 200px; object-fit: cover;">
+  </a>
+  <a href="https://github.com/Saitarun994/Park-Right/blob/main/README.md" style="flex: 1; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Park-Right/blob/main/media/cover.png" alt="Park Right" style="width:500px; height: 200px; object-fit: cover;">
+  </a>
+</div>
+<div style="display: flex;">
+  <a href="https://github.com/Saitarun994/Road-Sense/blob/main/README.md" style="flex: 1; object-fit: cover; width:500px; overflow: hidden;">
+    <img src="https://github.com/Saitarun994/Road-Sense/blob/main/preview.png" alt="Road Sense" style="width:500px; height: 200px; object-fit: cover;">
+  </a>
+  <a href="https://github.com/Saitarun994/Mocap-for-All/tree/main#readme" style="flex: 1; object-fit: cover; width:500px; overflow: hidden;">
+    <img src="https://github.com/Saitarun994/Mocap-for-All/blob/main/media/cover.png" alt="Mocap for All" style="width:500px; height: 200px; object-fit: cover;">
+  </a>
+</div>
 <!-- END PROJECT-CARDS -->
 
 
 # 💫 Minor Projects 
 
 <!-- BEGIN PROJECT-CARDS -->
-[![Discount Scout](https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/logo.png)](https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md)
-[![Reliable UDP](https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png)](https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme)
+<a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md">
+  <img src="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/logo.png" alt="Discount Scout" style="width:50%;">
+</a>
+<a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme">
+  <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png" alt="Reliable UDP" style="width:50%;">
+</a>
 <!-- END PROJECT-CARDS -->
 
 # 😂 Random Dev Meme
