@@ -82,6 +82,9 @@
 <a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme">
   <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png" alt="Reliable UDP" style="width:35%;">
 </a>
+<a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/README.md">
+  <img src="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/media/cover.png" alt="Reliable UDP" style="width:35%;">
+</a>
 <!-- END PROJECT-CARDS -->
 
 # 😂 Random Dev Meme
