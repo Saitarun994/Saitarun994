@@ -85,6 +85,9 @@
 <a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/README.md">
   <img src="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/media/cover.png" alt="Reliable UDP" style="width:35%;">
 </a>
+<a href="https://github.com/Saitarun994/TerraVista/blob/main/README.md">
+  <img src="https://github.com/Saitarun994/TerraVista/blob/main/media/banner.png" alt="Terra Vista" style="width:35%;">
+</a>
 <!-- END PROJECT-CARDS -->
 
 # 😂 Random Dev Meme
