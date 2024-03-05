@@ -88,6 +88,9 @@
 <a href="https://github.com/Saitarun994/TerraVista/blob/main/README.md">
   <img src="https://github.com/Saitarun994/TerraVista/blob/main/media/banner.png" alt="Terra Vista" style="width:35%;">
 </a>
+<a href="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/README.md">
+  <img src="https://camo.githubusercontent.com/e4faf62e9ebdd676e789c8fae9431d5a782cbb6e8658754ca4df8d5d7863bd33/68747470733a2f2f736f6369616c6966792e6769742e63692f6b626f7974726f6e2f6875696f77613233456e6769652f696d6167653f6465736372697074696f6e3d3126666f6e743d426974746572266c6f676f3d6874747073253341253246253246313030306c6f676f732e6e657425324677702d636f6e74656e7425324675706c6f616473253246323032312532463033253246456e6769652d6c6f676f2e706e67266e616d653d31267468656d653d4c69676874" alt="Solar energy viz" style="width:35%;">
+</a>
 <!-- END PROJECT-CARDS -->
 
 # 😂 Random Dev Meme
