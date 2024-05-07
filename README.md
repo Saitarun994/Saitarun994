@@ -69,6 +69,9 @@
   <a href="https://github.com/Saitarun994/Mocap-for-All/tree/main#readme" style="flex: 1; object-fit: cover; overflow: hidden;">
     <img src="https://github.com/Saitarun994/Mocap-for-All/blob/main/media/cover.png" alt="Mocap for All" style="width:400px; height: 150px; object-fit: cover;">
   </a>
+  <a href="https://github.com/Saitarun994/Good-Neighbor/blob/main/README.md" style="flex: 1; object-fit: cover; overflow: hidden;">
+    <img src="https://i.imgur.com/wX2IGpW.png" alt="Mocap for All" style="width:400px; height: 150px; object-fit: cover;">
+  </a>
 </div>
 <!-- END PROJECT-CARDS -->
 
