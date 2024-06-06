@@ -43,7 +43,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Saitarun994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 🌟 Major Projects 
+# 🌟 Major Projects (Click tile to view more)
 
 <!-- BEGIN PROJECT-CARDS -->
 <div style="display: flex;">
