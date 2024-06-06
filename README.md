@@ -91,14 +91,14 @@
 <a href="https://github.com/Saitarun994/TerraVista/blob/main/README.md">
   <img src="https://github.com/Saitarun994/TerraVista/blob/main/media/banner.png" alt="Terra Vista" style="width:35%;">
 </a>
-<a href="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/README.md">
-  <img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/banner.png" alt="Solar energy viz" style="width:35%;">
-</a>
 <a href="https://github.com/Saitarun994/intrusion_detection_system/blob/main/README.md">
   <img src="https://github.com/Saitarun994/intrusion_detection_system/blob/main/media/banner.png" alt="Intrusion detection system" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/poison_ivy_detection/blob/main/README.md">
   <img src="https://github.com/Saitarun994/poison_ivy_detection/blob/main/media/banner.png" alt="Poison Ivy" style="width:35%;">
+</a>
+<a href="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/README.md">
+  <img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/banner.png" alt="Solar energy viz" style="width:35%;">
 </a>
 
 <!-- END PROJECT-CARDS -->
