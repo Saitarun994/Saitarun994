@@ -104,9 +104,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Saitarun994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 😂 Random Dev Meme
-
-<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
+# 😂 Random Dev Jokes
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
