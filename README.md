@@ -13,17 +13,17 @@
 
 # 💻 Tech Stack:
 <div align="center">
-<img  alt="java" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="python" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >&nbsp;&nbsp;&nbsp;
-<img alt="c++" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="javascript" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="node.js" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="django" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="html" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="css" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="react" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="figma" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="MongoDB" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >&nbsp;&nbsp;&nbsp;
+<img alt="c++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="javascript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="node.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="django" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="css" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="react" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
+<img  alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;
 </br>
 <img  alt="Docker" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="AWS" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
