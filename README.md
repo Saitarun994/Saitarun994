@@ -105,7 +105,10 @@
 
 
 # 😂 Random Dev Meme
-<img src='https://codermemes.vercel.app/images/meme00.gif?cache=1717916437016' style="height: 400px;"/>
+
+<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saitarun994&icon=0&color=0)](https://visitcount.itsvg.in)
