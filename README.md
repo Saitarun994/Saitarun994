@@ -33,16 +33,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-<div class="image-container">
-  
-![](https://github-readme-stats.vercel.app/api?username=Saitarun994&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitarun994&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=Saitarun994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 # 🌟 Major Projects (Click tile to view more)
 
 <!-- BEGIN PROJECT-CARDS -->
@@ -103,8 +93,19 @@
 
 <!-- END PROJECT-CARDS -->
 
+# 📊 GitHub Stats:
+<div class="image-container">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitarun994&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Saitarun994&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
+
+</div>
+
+![](https://github-profile-trophy.vercel.app/?username=Saitarun994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 # 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app/images/meme00.gif?cache=1717916437016' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saitarun994&icon=0&color=0)](https://visitcount.itsvg.in)
