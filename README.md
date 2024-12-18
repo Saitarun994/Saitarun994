@@ -38,33 +38,36 @@
 <!-- BEGIN PROJECT-CARDS -->
 <div style="display: flex;">
   <a href="https://github.com/Saitarun994/tale-forge#readme" style="flex: 1; object-fit: cover;">
-    <img src="https://github.com/Saitarun994/tale-forge/blob/main/media/cover.png?raw=true" alt="Tale Forge" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/tale-forge/blob/main/media/taleforge-modified.png" alt="Tale Forge" style="width:49%;>
   </a>
   <a href="https://github.com/Saitarun994/Heimdall/tree/main#readme" style="flex: 1; object-fit: cover;">
-    <img src="https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png" alt="Heimdall" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Heimdall/blob/main/media/heimdall-modified.png" alt="Heimdall" style="width:49%;>
   </a>
 </div>
 <div style="display: flex;">
   <a href="https://github.com/Saitarun994/trivia-odyssey#readme" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/trivia-odyssey/blob/main/media/cover.png" alt="Trivia Odyssey" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/trivia-odyssey/blob/main/media/triviaodyssey-modified.png" alt="Trivia Odyssey" style="width:49%;>
   </a>
   <a href="https://github.com/Saitarun994/Park-Right/blob/main/README.md" style="flex: 1; object-fit: cover;">
-    <img src="https://github.com/Saitarun994/Park-Right/blob/main/media/cover.png" alt="Park Right" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Park-Right/blob/main/media/parkright-modified.png" alt="Park Right" style="width:49%;>
   </a>
 </div>
 <div style="display: flex;">
   <a href="https://github.com/Saitarun994/Road-Sense/blob/main/README.md" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/Road-Sense/blob/main/preview.png" alt="Road Sense" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Road-Sense/blob/main/media/roadsense-modified.png" alt="Road Sense" style="width:49%;>
   </a>
   <a href="https://github.com/Saitarun994/Mocap-for-All/tree/main#readme" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/Mocap-for-All/blob/main/media/cover.png" alt="Mocap for All" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Mocap-for-All/blob/main/media/mocapforall-modified.png" alt="Mocap for All" style="width:49%;>
   </a>
+</div>
+<div style="display: flex;">
   <a href="https://github.com/Saitarun994/Good-Neighbor/blob/main/README.md" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://i.imgur.com/wX2IGpW.png" alt="Mocap for All" style="width:400px; height: 150px; object-fit: cover;">
+    <img src="https://github.com/Saitarun994/Good-Neighbor/blob/main/goodneighbor-modified.png" alt="Good Neighbor" style="width:49%";>
   </a>
 </div>
 <!-- END PROJECT-CARDS -->
 
+<br/>
 
 ## 💫 Minor Projects
 
