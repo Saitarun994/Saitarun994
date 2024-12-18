@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/profile_banner-modified.png" >
+<img src="/s-prof-banner-modified.png" >
 </h1> 
 
 ### 💫 About Me:
