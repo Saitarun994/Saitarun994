@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/github-header-image%20(1).png">
+<img src="/profile_banner-modified.png" >
 </h1> 
 
 ### 💫 About Me:
