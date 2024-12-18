@@ -11,7 +11,7 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
 <img  alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
 <img  alt="python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@
 
 ---
 
-# 🌟 Major Projects (Click tile to view more)
+## 🌟 Major Projects (Click tile to view more)
 
 <!-- BEGIN PROJECT-CARDS -->
 <div style="display: flex;">
@@ -66,20 +66,24 @@
 <!-- END PROJECT-CARDS -->
 
 
-# 💫 Minor Projects 
+## 💫 Minor Projects
 
+Here are some projects I've made within a short time frame , to solve niche problems
+
+<details> 
+ <summary> 💫 Click to view list of Minor Projects 💫 </summary>
 <!-- BEGIN PROJECT-CARDS -->
 <a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/logo.png" alt="Discount Scout" style="width:35%;">
+  <img src="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/media/discount%20scout-modified.png" alt="Discount Scout" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme">
-  <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/logo.png" alt="Reliable UDP" style="width:35%;">
+  <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/reliableudp-modified.png" alt="Reliable UDP" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/media/cover.png" alt="Reliable UDP" style="width:35%;">
+  <img src="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/media/parallelizedlsh-modified.png" alt="Parallelized LSH" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/TerraVista/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/TerraVista/blob/main/media/banner.png" alt="Terra Vista" style="width:35%;">
+  <img src="https://github.com/Saitarun994/TerraVista/blob/main/media/terravista-modified.png" alt="Terra Vista" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/intrusion_detection_system/blob/main/README.md">
   <img src="https://github.com/Saitarun994/intrusion_detection_system/blob/main/media/banner.png" alt="Intrusion detection system" style="width:35%;">
@@ -88,9 +92,11 @@
   <img src="https://github.com/Saitarun994/poison_ivy_detection/blob/main/media/banner.png" alt="Poison Ivy" style="width:35%;">
 </a>
 <a href="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/README.md">
-  <img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/banner.png" alt="Solar energy viz" style="width:35%;">
+  <img src="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/solarenergyviz-modified.png" alt="Solar energy viz" style="width:35%;">
 </a>
+</details>
 
+#
 <!-- END PROJECT-CARDS -->
 
 # 📊 GitHub Stats:
