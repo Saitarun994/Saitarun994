@@ -6,7 +6,7 @@
 
 | Yep thats me | Im a night owl |
 |---|---|
-| ![Coder GIF](coder.gif) | New Grad with a Masters in Computer Science at RIT. AI Engineer & Fullstack SDE. Keen interest in computer vision , Generative AI and AI Agents. |
+| ![Coder GIF](coder.gif) |I’m an AI engineer with experience across backend systems, data pipelines, applied ML, and AI products.My specialization is generative AI and computer vision. |
 
 
 ---
