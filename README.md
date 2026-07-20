@@ -9,6 +9,14 @@
 <p align="center"><a href="https://www.linkedin.com/in/saitarun994"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a><a href="https://devpost.com/taruns994"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="28" alt="Devpost"></a><a href="https://iq.wiki/wiki/sai-tarun-sathyan"><img src="https://img.shields.io/badge/Crypto_Wiki-111111?style=for-the-badge" height="28" alt="Crypto Wiki"></a><a href="mailto:taruns994@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"></a><a href="https://scholar.google.com/citations?user=0gB2SkUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Google Scholar"></a><a href="https://devpost.com/taruns994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/MLH-2x_Hackathon_Winner-FBDB00?style=for-the-badge&logo=majorleaguehacking&logoColor=000000" height="28" alt="Two-time MLH hackathon winner"></a><a href="YOUR_AWS_CERTIFICATE_URL"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="AWS Cloud Practitioner"></a><a href="YOUR_GOOGLE_CERTIFICATE_URL"><img src="https://img.shields.io/badge/Google-UX_Design_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Google UX Design Certificate"></a><a href="https://arxiv.org/abs/2308.04079"><img src="https://img.shields.io/badge/Research-Published-0B57D0?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Published research"></a></p>
 
 
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,postgres,redis,docker,aws,react,ts,tailwind,nodejs,mongodb,gcp&perline=16"
+    alt="Core technology stack"
+  >
+</p>
+
+<p align="center"><a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="28" alt="LangChain"></a><a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/LangGraph-0B3D2E?style=for-the-badge" height="28" alt="LangGraph"></a><a href="https://ai.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28" alt="Pydantic AI"></a><a href="https://cloud.google.com/vertex-ai"><img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="28" alt="Vertex AI"></a><a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/ComfyUI-111111?style=for-the-badge" height="28" alt="ComfyUI"></a><a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" height="28" alt="Hugging Face"></a></p>
 
 <h2 align="center"><strong>FLAGSHIP WORK</strong></h2>
 
@@ -180,20 +188,19 @@
 </table>
 
 
-# 📊 GitHub Stats:
-<div class="image-container">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Saitarun994&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
+    height="160"
+    alt="GitHub statistics"
+  >
+  <img
+    src="https://streak-stats.demolab.com?user=Saitarun994&theme=transparent&hide_border=true"
+    height="160"
+    alt="GitHub contribution streak"
+  >
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitarun994&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Saitarun994&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham)
-
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=Saitarun994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-# 😂 Random Dev Jokes
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saitarun994&icon=0&color=0)](https://visitcount.itsvg.in)
