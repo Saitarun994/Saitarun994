@@ -11,8 +11,15 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,fastapi,express,nodejs,postgres,redis,mongodb,docker,aws,gcp,react,nextjs,js,ts,tailwind,vite&perline=10"
-    alt="Core technology stack"
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,fastapi,express,nodejs,postgres,redis"
+    height="32"
+    alt="AI and backend stack"
+  >
+  <br>
+  <img
+    src="https://skillicons.dev/icons?i=mongodb,docker,aws,gcp,react,nextjs,js,ts,tailwind,vite"
+    height="32"
+    alt="Cloud and frontend stack"
   >
 </p>
 
