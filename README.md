@@ -39,104 +39,245 @@
 
 ---
 
-## 🌟 Major Projects (Click tile to view more)
-
-<!-- BEGIN PROJECT-CARDS -->
-<div style="display: flex;">
-  <a href="https://github.com/Saitarun994/tale-forge#readme" style="flex: 1; object-fit: cover;">
-    <img src="https://github.com/Saitarun994/tale-forge/blob/main/media/taleforge-modified.png" alt="Tale Forge" style="width:49%";>
-  </a>
-      
-  <a href="https://github.com/Saitarun994/Heimdall/tree/main#readme" style="flex: 1; object-fit: cover;">
-    <img src="https://github.com/Saitarun994/Heimdall/blob/main/media/heimdall-modified.png" alt="Heimdall" style="width:49%";>
-  </a>
-</div>
-<div style="display: flex;">
-  <a href="https://github.com/Saitarun994/trivia-odyssey#readme" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/trivia-odyssey/blob/main/media/triviaodyssey-modified.png" alt="Trivia Odyssey" style="width:49%";>
-  </a>
-      
-  <a href="https://github.com/Saitarun994/Park-Right/blob/main/README.md" style="flex: 1; object-fit: cover;">
-    <img src="https://github.com/Saitarun994/Park-Right/blob/main/media/parkright-modified.png" alt="Park Right" style="width:49%";>
-  </a>
-</div>
-<div style="display: flex;">
-  <a href="https://github.com/Saitarun994/Road-Sense/blob/main/README.md" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/Road-Sense/blob/main/media/roadsense-modified.png" alt="Road Sense" style="width:49%";>
-  </a>
-  <a href="https://github.com/Saitarun994/Mocap-for-All/tree/main#readme" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/Mocap-for-All/blob/main/media/mocapforall-modified.png" alt="Mocap for All" style="width:49%";>
-  </a>
-</div>
-<div style="display: flex;">
-  <a href="https://github.com/Saitarun994/Good-Neighbor/blob/main/README.md" style="flex: 1; object-fit: cover; overflow: hidden;">
-    <img src="https://github.com/Saitarun994/Good-Neighbor/blob/main/goodneighbor-modified.png" alt="Good Neighbor" style="width:49%";>
-  </a>
-</div>
-<!-- END PROJECT-CARDS -->
-
-<br/>
-
-
-<h1 align="center"><strong>MINOR PROJECTS</strong></h1>
+<h2 align="center"><strong>FLAGSHIP PROJECTS</strong></h2>
 
 <p align="center">
-  <strong>SMALL, FOCUSED PROJECTS BUILT TO SOLVE SPECIFIC TECHNICAL PROBLEMS.</strong>
+<strong>SELECTED SYSTEMS WITH THE STRONGEST TECHNICAL DEPTH, REAL-WORLD CONTEXT, AND MEASURABLE OUTCOMES.</strong>
+</p>
+
+<!-- SYNC -->
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
+<h3>SYNC — Agentic Crypto Intelligence</h3>
+<strong>PROBLEM</strong><br>
+Crypto users needed one reliable interface for research, market analysis, and automated workflows.<br><br>
+<strong>WHAT I BUILT</strong><br>
+A multi-agent GenAI platform with specialist agents, tool orchestration, recoverable workflows, and human-in-the-loop controls.<br><br>
+<strong>SCALE</strong><br>
+10,000+ signups · 800 active testers · 15+ APIs<br><br>
+<strong>ARCHITECTURE</strong><br>
+Python · FastAPI · LangGraph · Redis · PostgreSQL · AWS<br><br>
+<a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a><br>
+<sub>PROPRIETARY PROJECT · SOURCE CODE NOT PUBLIC</sub>
+</td>
+<td align="center" valign="middle" width="50%">
+<a href="https://github.com/Saitarun994">
+<img src="https://placehold.co/900x500/161616/FFFFFF?text=SYNC+ANIMATED+PRODUCT+DEMO" width="100%" alt="SYNC product demo placeholder">
+</a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>VIEW SYNC ARCHITECTURE & IMPLEMENTATION DETAILS</strong></summary>
+<br>
+<p>
+Add your sanitized architecture diagram, agent workflow, engineering decisions, and approved implementation details here.
+</p>
+</details>
+
+<br>
+
+<!-- HEIMDALL -->
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
+<h3>Heimdall — 2D to 3D Reconstruction</h3>
+<strong>PROBLEM</strong><br>
+Static campus footage could not provide an immersive or navigable spatial experience.<br><br>
+<strong>WHAT I BUILT</strong><br>
+An end-to-end computer-vision pipeline that converts video and 2D imagery into navigable, photorealistic 3D environments.<br><br>
+<strong>OUTCOME</strong><br>
+Published research · Campus-scale reconstruction · Improved frame-selection quality<br><br>
+<strong>ARCHITECTURE</strong><br>
+Python · OpenCV · Gaussian Splatting · NeRF · Photogrammetry<br><br>
+<a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW RESEARCH CASE STUDY →</strong></a><br>
+<sub>PUBLISHED RESEARCH · IMPLEMENTATION DETAILS LIMITED</sub>
+</td>
+<td align="center" valign="middle" width="50%">
+<a href="https://github.com/Saitarun994/Heimdall">
+<img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D to 3D reconstruction">
+</a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>VIEW HEIMDALL ARCHITECTURE & IMPLEMENTATION DETAILS</strong></summary>
+<br>
+<p>
+Add the public reconstruction workflow, research methodology, comparison between photogrammetry, NeRF, and Gaussian Splatting, and approved diagrams here.
+</p>
+</details>
+
+<br>
+
+<!-- PARK RIGHT -->
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
+<h3>ParkRight — Intelligent Parking Detection</h3>
+<strong>PROBLEM</strong><br>
+Drivers lacked reliable information about legal and available roadside parking spaces.<br><br>
+<strong>WHAT I BUILT</strong><br>
+A computer-vision prototype that detects road regions, vehicles, and potential parking availability from camera imagery.<br><br>
+<strong>OUTCOME</strong><br>
+Company prototype · Real-world applied computer vision use case<br><br>
+<strong>ARCHITECTURE</strong><br>
+Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
+<a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a><br>
+<sub>COMPANY PROTOTYPE · SOURCE CODE NOT PUBLIC</sub>
+</td>
+<td align="center" valign="middle" width="50%">
+<a href="https://github.com/Saitarun994/Park-Right">
+<img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection">
+</a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>VIEW PARKRIGHT ARCHITECTURE & IMPLEMENTATION DETAILS</strong></summary>
+<br>
+<p>
+Add a sanitized detection pipeline, model workflow, dataset process, system boundaries, and company-approved outputs here.
+</p>
+</details>
+
+<br>
+
+<h2 align="center"><strong>SELECTED PROJECTS BY SPECIALIZATION</strong></h2>
+
+<p align="center">
+<strong>FOCUSED PROJECTS DEMONSTRATING GENERATIVE AI, COMPUTER VISION, SYSTEMS ENGINEERING, AND FULL-STACK DEVELOPMENT.</strong>
+</p>
+
+<h3 align="center"><strong>GENERATIVE AI PRODUCTS</strong></h3>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/tale-forge">
+<img src="https://raw.githubusercontent.com/Saitarun994/tale-forge/main/media/taleforge-modified.png" width="220" alt="Tale Forge"><br>
+<strong>Tale Forge</strong>
+</a><br>
+<sub>GENAI · STORY & IMAGE GENERATION</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/Good-Neighbor">
+<img src="https://raw.githubusercontent.com/Saitarun994/Good-Neighbor/main/goodneighbor-modified.png" width="220" alt="Good Neighbor"><br>
+<strong>Good Neighbor</strong>
+</a><br>
+<sub>GENAI · FULL-STACK COMMUNITY PLATFORM</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/pixigen">
+<img src="https://raw.githubusercontent.com/Saitarun994/pixigen/main/media/banner.png" width="220" alt="Pixigen"><br>
+<strong>Pixigen</strong>
+</a><br>
+<sub>GENAI · FULL-STACK IMAGE APPLICATION</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3 align="center"><strong>COMPUTER VISION & APPLIED ML</strong></h3>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/Road-Sense">
+<img src="https://raw.githubusercontent.com/Saitarun994/Road-Sense/main/media/roadsense-modified.png" width="220" alt="Road Sense"><br>
+<strong>Road Sense</strong>
+</a><br>
+<sub>REAL-TIME OBJECT & LANE DETECTION</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/Mocap-for-All">
+<img src="https://raw.githubusercontent.com/Saitarun994/Mocap-for-All/main/media/mocapforall-modified.png" width="220" alt="MoCap for All"><br>
+<strong>MoCap for All</strong>
+</a><br>
+<sub>REAL-TIME POSE-BASED MOTION CAPTURE</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/poison_ivy_detection">
+<img src="https://raw.githubusercontent.com/Saitarun994/poison_ivy_detection/main/media/banner.png" width="220" alt="Poison Ivy Detection"><br>
+<strong>Poison Ivy Detection</strong>
+</a><br>
+<sub>IMAGE CLASSIFICATION</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3 align="center"><strong>BACKEND, SYSTEMS & PRODUCT ENGINEERING</strong></h3>
+
+<p align="center">
+<strong>PROJECTS SPANNING NETWORKING, HIGH-PERFORMANCE COMPUTING, DATA SYSTEMS, AUTOMATION, AND FULL-STACK APPLICATIONS.</strong>
 </p>
 
 <table align="center" width="90%">
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier">
-<img src="https://raw.githubusercontent.com/Saitarun994/Automated_Amzn_Discount_notifier/main/media/discount%20scout-modified.png" width="220" alt="Discount Scout"><br>
-<strong>Discount Scout</strong>
-</a>
-</td>
-<td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol">
 <img src="https://raw.githubusercontent.com/Saitarun994/Custom-Reliable-UDP-Protocol/main/reliableudp-modified.png" width="220" alt="Reliable UDP"><br>
 <strong>Reliable UDP</strong>
-</a>
+</a><br>
+<sub>NETWORK PROTOCOL ENGINEERING</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN">
 <img src="https://raw.githubusercontent.com/Saitarun994/Parallelized-LSH-for-ANN/main/media/parallelizedlsh-modified.png" width="220" alt="Parallelized LSH"><br>
 <strong>Parallelized LSH</strong>
-</a>
+</a><br>
+<sub>HIGH-PERFORMANCE APPROXIMATE SEARCH</sub>
 </td>
-</tr>
-<tr>
-<td align="center" valign="top">
-<a href="https://github.com/Saitarun994/TerraVista">
-<img src="https://raw.githubusercontent.com/Saitarun994/TerraVista/main/media/terravista-modified.png" width="220" alt="Terra Vista"><br>
-<strong>Terra Vista</strong>
-</a>
-</td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/intrusion_detection_system">
 <img src="https://raw.githubusercontent.com/Saitarun994/intrusion_detection_system/main/media/banner.png" width="220" alt="Intrusion Detection System"><br>
 <strong>Intrusion Detection</strong>
-</a>
-</td>
-<td align="center" valign="top">
-<a href="https://github.com/Saitarun994/poison_ivy_detection">
-<img src="https://raw.githubusercontent.com/Saitarun994/poison_ivy_detection/main/media/banner.png" width="220" alt="Poison Ivy Detection"><br>
-<strong>Poison Ivy Detection</strong>
-</a>
+</a><br>
+<sub>NETWORK ANOMALY DETECTION</sub>
 </td>
 </tr>
 <tr>
-<td align="center">&nbsp;</td>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier">
+<img src="https://raw.githubusercontent.com/Saitarun994/Automated_Amzn_Discount_notifier/main/media/discount%20scout-modified.png" width="220" alt="Discount Scout"><br>
+<strong>Discount Scout</strong>
+</a><br>
+<sub>AUTOMATION & NOTIFICATION PIPELINE</sub>
+</td>
 <td align="center" valign="top">
 <a href="https://github.com/Saitarun994/SolarEnergyViz.tech">
 <img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/solarenergyviz-modified.png" width="220" alt="Solar Energy Viz"><br>
 <strong>Solar Energy Viz</strong>
-</a>
+</a><br>
+<sub>DATA PROCESSING, FORECASTING & VISUALIZATION</sub>
+</td>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/TerraVista">
+<img src="https://raw.githubusercontent.com/Saitarun994/TerraVista/main/media/terravista-modified.png" width="220" alt="Terra Vista"><br>
+<strong>Terra Vista</strong>
+</a><br>
+<sub>FULL-STACK LOCAL DISCOVERY PLATFORM</sub>
+</td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/trivia-odyssey">
+<img src="https://raw.githubusercontent.com/Saitarun994/trivia-odyssey/main/media/triviaodyssey-modified.png" width="220" alt="Trivia Odyssey"><br>
+<strong>Trivia Odyssey</strong>
+</a><br>
+<sub>FULL-STACK LOCATION-BASED TRIVIA APP</sub>
 </td>
 <td align="center">&nbsp;</td>
 </tr>
 </table>
-
 
 
 # 📊 GitHub Stats:
