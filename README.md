@@ -37,7 +37,7 @@
 
 <p align="center">
   <strong>SYNC — AGENTIC CRYPTO INTELLIGENCE</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Saitarun994"><strong>READ MORE →</strong></a><br>
+  <a href="https://github.com/Saitarun994/SYNC/blob/main/README.md"><strong>READ MORE →</strong></a><br>
   <sub>10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS</sub>
 </p>
 
