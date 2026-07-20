@@ -45,7 +45,7 @@
 
 <a href="https://github.com/Saitarun994/Heimdall">
   <img
-    src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png"
+    src="https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png"
     width="100%"
     alt="Heimdall 2D-to-3D reconstruction research"
   >
@@ -61,7 +61,7 @@
 
 <a href="https://github.com/Saitarun994/Park-Right">
   <img
-    src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png"
+    src="https://github.com/Saitarun994/Park-Right/blob/main/media/cover.png"
     width="100%"
     alt="ParkRight intelligent parking detection prototype"
   >
