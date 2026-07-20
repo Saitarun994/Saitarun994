@@ -27,54 +27,51 @@
 
 <h2 align="center"><strong>FLAGSHIP WORK</strong></h2>
 
-<table align="center" width="100%">
-<tr>
-<td valign="middle" width="30%">
-<h3>SYNC</h3>
-<strong>AGENTIC CRYPTO INTELLIGENCE</strong><br><br>
-<sub>MULTI-AGENT PLATFORM</sub><br>
-<sub>10K+ SIGNUPS · 800 TESTERS · 15+ APIS</sub><br>
-<sub>PYTHON · FASTAPI · LANGGRAPH · REDIS · AWS</sub><br><br>
-<a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a>
-</td>
-<td align="center" valign="middle" width="70%">
 <a href="https://github.com/Saitarun994">
-<img src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE" width="100%" alt="SYNC agentic crypto intelligence platform">
+  <img
+    src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE"
+    width="100%"
+    alt="SYNC agentic crypto intelligence platform"
+  >
 </a>
-</td>
-</tr>
-<tr>
-<td valign="middle" width="30%">
-<h3>HEIMDALL</h3>
-<strong>2D-TO-3D RECONSTRUCTION</strong><br><br>
-<sub>PUBLISHED RESEARCH</sub><br>
-<sub>CAMPUS-SCALE COMPUTER VISION PIPELINE</sub><br>
-<sub>PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub><br><br>
-<a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW CASE STUDY →</strong></a>
-</td>
-<td align="center" valign="middle" width="70%">
+
+<p align="center">
+  <strong>SYNC — AGENTIC CRYPTO INTELLIGENCE</strong> &nbsp;|&nbsp;
+  <a href="https://github.com/Saitarun994"><strong>READ MORE →</strong></a><br>
+  <sub>10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS</sub>
+</p>
+
+---
+
 <a href="https://github.com/Saitarun994/Heimdall">
-<img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D-to-3D reconstruction research">
+  <img
+    src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png"
+    width="100%"
+    alt="Heimdall 2D-to-3D reconstruction research"
+  >
 </a>
-</td>
-</tr>
-<tr>
-<td valign="middle" width="30%">
-<h3>PARKRIGHT</h3>
-<strong>INTELLIGENT PARKING DETECTION</strong><br><br>
-<sub>COMPANY PROTOTYPE</sub><br>
-<sub>REAL-WORLD PARKING AVAILABILITY DETECTION</sub><br>
-<sub>PYTHON · OPENCV · YOLO · ROBOFLOW</sub><br><br>
-<a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a>
-</td>
-<td align="center" valign="middle" width="70%">
+
+<p align="center">
+  <strong>HEIMDALL — 2D-TO-3D RECONSTRUCTION</strong> &nbsp;|&nbsp;
+  <a href="https://github.com/Saitarun994/Heimdall"><strong>READ MORE →</strong></a><br>
+  <sub>PUBLISHED RESEARCH · CAMPUS-SCALE PIPELINE &nbsp;|&nbsp; PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub>
+</p>
+
+---
+
 <a href="https://github.com/Saitarun994/Park-Right">
-<img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection prototype">
+  <img
+    src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png"
+    width="100%"
+    alt="ParkRight intelligent parking detection prototype"
+  >
 </a>
-</td>
-</tr>
-</table>
-<br>
+
+<p align="center">
+  <strong>PARKRIGHT — INTELLIGENT PARKING DETECTION</strong> &nbsp;|&nbsp;
+  <a href="https://github.com/Saitarun994/Park-Right"><strong>READ MORE →</strong></a><br>
+  <sub>COMPANY PROTOTYPE · REAL-WORLD CV &nbsp;|&nbsp; PYTHON · OPENCV · YOLO · ROBOFLOW</sub>
+</p>
 
 
 
