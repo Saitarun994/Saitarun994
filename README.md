@@ -6,9 +6,7 @@
   >
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/saitarun994"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a><a href="https://devpost.com/taruns994"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="28" alt="Devpost"></a><a href="https://iq.wiki/wiki/sai-tarun-sathyan"><img src="https://img.shields.io/badge/Crypto_Wiki-111111?style=for-the-badge" height="28" alt="Crypto Wiki"></a><a href="mailto:taruns994@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"></a><a href="https://scholar.google.com/citations?user=0gB2SkUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Google Scholar"></a></p>
-
-<p align="center"><a href="https://devpost.com/taruns994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/MLH-2x_Hackathon_Winner-FBDB00?style=for-the-badge&logo=majorleaguehacking&logoColor=000000" height="28" alt="Two-time MLH hackathon winner"></a><a href="YOUR_AWS_CERTIFICATE_URL"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="AWS Cloud Practitioner"></a><a href="YOUR_GOOGLE_CERTIFICATE_URL"><img src="https://img.shields.io/badge/Google-UX_Design_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Google UX Design Certificate"></a><a href="https://arxiv.org/abs/2308.04079"><img src="https://img.shields.io/badge/Research-Published-0B57D0?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Published research"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/saitarun994"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a><a href="https://devpost.com/taruns994"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" height="28" alt="Devpost"></a><a href="https://iq.wiki/wiki/sai-tarun-sathyan"><img src="https://img.shields.io/badge/Crypto_Wiki-111111?style=for-the-badge" height="28" alt="Crypto Wiki"></a><a href="mailto:taruns994@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email"></a><a href="https://scholar.google.com/citations?user=0gB2SkUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Google Scholar"></a><a href="https://devpost.com/taruns994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/MLH-2x_Hackathon_Winner-FBDB00?style=for-the-badge&logo=majorleaguehacking&logoColor=000000" height="28" alt="Two-time MLH hackathon winner"></a><a href="YOUR_AWS_CERTIFICATE_URL"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" alt="AWS Cloud Practitioner"></a><a href="YOUR_GOOGLE_CERTIFICATE_URL"><img src="https://img.shields.io/badge/Google-UX_Design_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Google UX Design Certificate"></a><a href="https://arxiv.org/abs/2308.04079"><img src="https://img.shields.io/badge/Research-Published-0B57D0?style=for-the-badge&logo=googlescholar&logoColor=white" height="28" alt="Published research"></a></p>
 
 
 
@@ -16,11 +14,6 @@
 
 <table align="center" width="100%">
 <tr>
-<td align="center" valign="middle" width="70%">
-<a href="https://github.com/Saitarun994">
-<img src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE" width="100%" alt="SYNC agentic crypto intelligence platform">
-</a>
-</td>
 <td valign="middle" width="30%">
 <h3>SYNC</h3>
 <strong>AGENTIC CRYPTO INTELLIGENCE</strong><br><br>
@@ -29,13 +22,13 @@
 <sub>PYTHON · FASTAPI · LANGGRAPH · REDIS · AWS</sub><br><br>
 <a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a>
 </td>
-</tr>
-<tr>
 <td align="center" valign="middle" width="70%">
-<a href="https://github.com/Saitarun994/Heimdall">
-<img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D-to-3D reconstruction research">
+<a href="https://github.com/Saitarun994">
+<img src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE" width="100%" alt="SYNC agentic crypto intelligence platform">
 </a>
 </td>
+</tr>
+<tr>
 <td valign="middle" width="30%">
 <h3>HEIMDALL</h3>
 <strong>2D-TO-3D RECONSTRUCTION</strong><br><br>
@@ -44,13 +37,13 @@
 <sub>PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub><br><br>
 <a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW CASE STUDY →</strong></a>
 </td>
-</tr>
-<tr>
 <td align="center" valign="middle" width="70%">
-<a href="https://github.com/Saitarun994/Park-Right">
-<img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection prototype">
+<a href="https://github.com/Saitarun994/Heimdall">
+<img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D-to-3D reconstruction research">
 </a>
 </td>
+</tr>
+<tr>
 <td valign="middle" width="30%">
 <h3>PARKRIGHT</h3>
 <strong>INTELLIGENT PARKING DETECTION</strong><br><br>
@@ -59,9 +52,13 @@
 <sub>PYTHON · OPENCV · YOLO · ROBOFLOW</sub><br><br>
 <a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a>
 </td>
+<td align="center" valign="middle" width="70%">
+<a href="https://github.com/Saitarun994/Park-Right">
+<img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection prototype">
+</a>
+</td>
 </tr>
 </table>
-
 <br>
 
   
