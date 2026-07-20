@@ -18,7 +18,7 @@
 <h3>SYNC</h3>
 <strong>AGENTIC CRYPTO INTELLIGENCE</strong><br><br>
 <sub>MULTI-AGENT PLATFORM</sub><br>
-<sub>10K+ SIGNUPS · 800 TESTERS · 15+ APIS</sub><br><br>
+<sub>10K+ SIGNUPS · 800 TESTERS · 15+ APIS</sub><br>
 <sub>PYTHON · FASTAPI · LANGGRAPH · REDIS · AWS</sub><br><br>
 <a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a>
 </td>
@@ -33,7 +33,7 @@
 <h3>HEIMDALL</h3>
 <strong>2D-TO-3D RECONSTRUCTION</strong><br><br>
 <sub>PUBLISHED RESEARCH</sub><br>
-<sub>CAMPUS-SCALE COMPUTER VISION PIPELINE</sub><br><br>
+<sub>CAMPUS-SCALE COMPUTER VISION PIPELINE</sub><br>
 <sub>PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub><br><br>
 <a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW CASE STUDY →</strong></a>
 </td>
@@ -48,7 +48,7 @@
 <h3>PARKRIGHT</h3>
 <strong>INTELLIGENT PARKING DETECTION</strong><br><br>
 <sub>COMPANY PROTOTYPE</sub><br>
-<sub>REAL-WORLD PARKING AVAILABILITY DETECTION</sub><br><br>
+<sub>REAL-WORLD PARKING AVAILABILITY DETECTION</sub><br>
 <sub>PYTHON · OPENCV · YOLO · ROBOFLOW</sub><br><br>
 <a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a>
 </td>
