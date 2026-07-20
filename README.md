@@ -39,77 +39,56 @@
 
 ---
 
+<h2 align="center"><strong>FLAGSHIP WORK</strong></h2>
+
+<p align="center">
+<strong>SELECTED SYSTEMS WITH REAL-WORLD IMPACT AND TECHNICAL DEPTH.</strong>
+</p>
+
 <table align="center" width="100%">
 <tr>
-<td align="center" colspan="6">
-<h2><strong>FLAGSHIP CASE STUDIES</strong></h2>
-<strong>SELECTED SYSTEMS WITH THE STRONGEST TECHNICAL DEPTH, REAL-WORLD CONTEXT, AND MEASURABLE OUTCOMES.</strong>
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="3" width="50%">
-<h3>SYNC — Agentic Crypto Intelligence</h3>
-<strong>PROBLEM</strong><br>
-Crypto users needed one reliable interface for research, market analysis, and automated workflows.<br><br>
-<strong>WHAT I BUILT</strong><br>
-A multi-agent GenAI platform with specialist agents, tool orchestration, recoverable workflows, and human-in-the-loop controls.<br><br>
-<strong>SCALE</strong><br>
-10,000+ signups · 800 active testers · 15+ APIs<br><br>
-<strong>ARCHITECTURE</strong><br>
-Python · FastAPI · LangGraph · Redis · PostgreSQL · AWS<br><br>
-<a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a><br>
-<sub>PROPRIETARY PROJECT · SOURCE CODE NOT PUBLIC</sub>
-</td>
-<td align="center" valign="middle" colspan="3" width="50%">
+<td align="center" valign="middle" width="70%">
 <a href="https://github.com/Saitarun994">
-<img src="https://placehold.co/900x500/161616/FFFFFF?text=SYNC+ANIMATED+PRODUCT+DEMO" width="100%" alt="SYNC product demo placeholder">
+<img src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE" width="100%" alt="SYNC agentic crypto intelligence platform">
 </a>
 </td>
-</tr>
-<tr>
-<td colspan="6"><br></td>
-</tr>
-<tr>
-<td valign="top" colspan="3" width="50%">
-<h3>Heimdall — 2D to 3D Reconstruction</h3>
-<strong>PROBLEM</strong><br>
-Static campus footage could not provide an immersive or navigable spatial experience.<br><br>
-<strong>WHAT I BUILT</strong><br>
-An end-to-end computer-vision pipeline that converts video and 2D imagery into navigable, photorealistic 3D environments.<br><br>
-<strong>OUTCOME</strong><br>
-Published research · Campus-scale reconstruction · Improved frame-selection quality<br><br>
-<strong>ARCHITECTURE</strong><br>
-Python · OpenCV · Gaussian Splatting · NeRF · Photogrammetry<br><br>
-<a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW RESEARCH CASE STUDY →</strong></a><br>
-<sub>PUBLISHED RESEARCH · IMPLEMENTATION DETAILS LIMITED</sub>
+<td valign="middle" width="30%">
+<h3>SYNC</h3>
+<strong>AGENTIC CRYPTO INTELLIGENCE</strong><br><br>
+<sub>MULTI-AGENT PLATFORM</sub><br>
+<sub>10K+ SIGNUPS · 800 TESTERS · 15+ APIS</sub><br><br>
+<sub>PYTHON · FASTAPI · LANGGRAPH · REDIS · AWS</sub><br><br>
+<a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a>
 </td>
-<td align="center" valign="middle" colspan="3" width="50%">
+</tr>
+<tr>
+<td align="center" valign="middle" width="70%">
 <a href="https://github.com/Saitarun994/Heimdall">
-<img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D to 3D reconstruction">
+<img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D-to-3D reconstruction research">
 </a>
 </td>
-</tr>
-<tr>
-<td colspan="6"><br></td>
-</tr>
-<tr>
-<td valign="top" colspan="3" width="50%">
-<h3>ParkRight — Intelligent Parking Detection</h3>
-<strong>PROBLEM</strong><br>
-Drivers lacked reliable information about legal and available roadside parking spaces.<br><br>
-<strong>WHAT I BUILT</strong><br>
-A computer-vision prototype that detects road regions, vehicles, and potential parking availability from camera imagery.<br><br>
-<strong>OUTCOME</strong><br>
-Company prototype · Real-world applied computer-vision use case<br><br>
-<strong>ARCHITECTURE</strong><br>
-Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
-<a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a><br>
-<sub>COMPANY PROTOTYPE · SOURCE CODE NOT PUBLIC</sub>
+<td valign="middle" width="30%">
+<h3>HEIMDALL</h3>
+<strong>2D-TO-3D RECONSTRUCTION</strong><br><br>
+<sub>PUBLISHED RESEARCH</sub><br>
+<sub>CAMPUS-SCALE COMPUTER VISION PIPELINE</sub><br><br>
+<sub>PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub><br><br>
+<a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW CASE STUDY →</strong></a>
 </td>
-<td align="center" valign="middle" colspan="3" width="50%">
+</tr>
+<tr>
+<td align="center" valign="middle" width="70%">
 <a href="https://github.com/Saitarun994/Park-Right">
-<img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection">
+<img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection prototype">
 </a>
+</td>
+<td valign="middle" width="30%">
+<h3>PARKRIGHT</h3>
+<strong>INTELLIGENT PARKING DETECTION</strong><br><br>
+<sub>COMPANY PROTOTYPE</sub><br>
+<sub>REAL-WORLD PARKING AVAILABILITY DETECTION</sub><br><br>
+<sub>PYTHON · OPENCV · YOLO · ROBOFLOW</sub><br><br>
+<a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a>
 </td>
 </tr>
 </table>
