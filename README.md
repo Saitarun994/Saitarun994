@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,postgres,redis,docker,aws,react,ts,tailwind,nodejs,mongodb,gcp&perline=16"
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,fastapi,express,nodejs,postgres,redis,mongodb,docker,aws,gcp,react,nextjs,js,ts,tailwind,vite&perline=10"
     alt="Core technology stack"
   >
 </p>
