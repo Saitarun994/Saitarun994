@@ -77,38 +77,67 @@
 
 <br/>
 
-## 💫 Minor Projects
 
-Here are some projects I've made within a short time frame , to solve niche problems
+<h1 align="center"><strong>MINOR PROJECTS</strong></h1>
 
-<details> 
- <summary> 💫 Click to view list of Minor Projects 💫 </summary>
-<!-- BEGIN PROJECT-CARDS -->
-<a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier/blob/main/media/discount%20scout-modified.png" alt="Discount Scout" style="width:35%;">
-</a>
-<a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol#readme">
-  <img src="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol/blob/main/reliableudp-modified.png" alt="Reliable UDP" style="width:35%;">
-</a>
-<a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/Parallelized-LSH-for-ANN/blob/main/media/parallelizedlsh-modified.png" alt="Parallelized LSH" style="width:35%;">
-</a>
-<a href="https://github.com/Saitarun994/TerraVista/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/TerraVista/blob/main/media/terravista-modified.png" alt="Terra Vista" style="width:35%;">
-</a>
-<a href="https://github.com/Saitarun994/intrusion_detection_system/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/intrusion_detection_system/blob/main/media/banner.png" alt="Intrusion detection system" style="width:35%;">
-</a>
-<a href="https://github.com/Saitarun994/poison_ivy_detection/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/poison_ivy_detection/blob/main/media/banner.png" alt="Poison Ivy" style="width:35%;">
-</a>
-<a href="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/README.md">
-  <img src="https://github.com/Saitarun994/SolarEnergyViz.tech/blob/main/solarenergyviz-modified.png" alt="Solar energy viz" style="width:35%;">
-</a>
-</details>
+<p align="center">
+  <strong>SMALL, FOCUSED PROJECTS BUILT TO SOLVE SPECIFIC TECHNICAL PROBLEMS.</strong>
+</p>
 
-#
-<!-- END PROJECT-CARDS -->
+<table align="center" width="90%">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier">
+<img src="https://raw.githubusercontent.com/Saitarun994/Automated_Amzn_Discount_notifier/main/media/discount%20scout-modified.png" width="220" alt="Discount Scout"><br>
+<strong>Discount Scout</strong>
+</a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol">
+<img src="https://raw.githubusercontent.com/Saitarun994/Custom-Reliable-UDP-Protocol/main/reliableudp-modified.png" width="220" alt="Reliable UDP"><br>
+<strong>Reliable UDP</strong>
+</a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN">
+<img src="https://raw.githubusercontent.com/Saitarun994/Parallelized-LSH-for-ANN/main/media/parallelizedlsh-modified.png" width="220" alt="Parallelized LSH"><br>
+<strong>Parallelized LSH</strong>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/TerraVista">
+<img src="https://raw.githubusercontent.com/Saitarun994/TerraVista/main/media/terravista-modified.png" width="220" alt="Terra Vista"><br>
+<strong>Terra Vista</strong>
+</a>
+</td>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/intrusion_detection_system">
+<img src="https://raw.githubusercontent.com/Saitarun994/intrusion_detection_system/main/media/banner.png" width="220" alt="Intrusion Detection System"><br>
+<strong>Intrusion Detection</strong>
+</a>
+</td>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/poison_ivy_detection">
+<img src="https://raw.githubusercontent.com/Saitarun994/poison_ivy_detection/main/media/banner.png" width="220" alt="Poison Ivy Detection"><br>
+<strong>Poison Ivy Detection</strong>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">&nbsp;</td>
+<td align="center" valign="top">
+<a href="https://github.com/Saitarun994/SolarEnergyViz.tech">
+<img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/solarenergyviz-modified.png" width="220" alt="Solar Energy Viz"><br>
+<strong>Solar Energy Viz</strong>
+</a>
+</td>
+<td align="center">&nbsp;</td>
+</tr>
+</table>
+
+
 
 # 📊 GitHub Stats:
 <div class="image-container">
