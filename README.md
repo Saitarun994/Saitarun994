@@ -27,7 +27,7 @@
 
 <h2 align="center"><strong>FLAGSHIP WORK</strong></h2>
 
-<a href="https://github.com/Saitarun994">
+<a href="https://github.com/Saitarun994/SYNC">
   <img
     src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE"
     width="100%"
@@ -37,7 +37,7 @@
 
 <p align="center">
   <strong>SYNC — AGENTIC CRYPTO INTELLIGENCE</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Saitarun994/SYNC/blob/main/README.md"><strong>READ MORE →</strong></a><br>
+  <a href="https://github.com/Saitarun994/SYNC"><strong>READ MORE →</strong></a><br>
   <sub>10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS</sub>
 </p>
 
