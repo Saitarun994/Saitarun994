@@ -69,14 +69,6 @@ Python · FastAPI · LangGraph · Redis · PostgreSQL · AWS<br><br>
 </tr>
 </table>
 
-<details>
-<summary><strong>VIEW SYNC ARCHITECTURE & IMPLEMENTATION DETAILS</strong></summary>
-<br>
-<p>
-Add your sanitized architecture diagram, agent workflow, engineering decisions, and approved implementation details here.
-</p>
-</details>
-
 <br>
 
 <!-- HEIMDALL -->
@@ -102,14 +94,6 @@ Python · OpenCV · Gaussian Splatting · NeRF · Photogrammetry<br><br>
 </td>
 </tr>
 </table>
-
-<details>
-<summary><strong>VIEW HEIMDALL ARCHITECTURE & IMPLEMENTATION DETAILS</strong></summary>
-<br>
-<p>
-Add the public reconstruction workflow, research methodology, comparison between photogrammetry, NeRF, and Gaussian Splatting, and approved diagrams here.
-</p>
-</details>
 
 <br>
 
@@ -137,23 +121,11 @@ Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
 </tr>
 </table>
 
-<details>
-<summary><strong>VIEW PARKRIGHT ARCHITECTURE & IMPLEMENTATION DETAILS</strong></summary>
-<br>
-<p>
-Add a sanitized detection pipeline, model workflow, dataset process, system boundaries, and company-approved outputs here.
-</p>
-</details>
-
 <br>
 
 <h2 align="center"><strong>SELECTED PROJECTS BY SPECIALIZATION</strong></h2>
 
-<p align="center">
-<strong>FOCUSED PROJECTS DEMONSTRATING GENERATIVE AI, COMPUTER VISION, SYSTEMS ENGINEERING, AND FULL-STACK DEVELOPMENT.</strong>
-</p>
-
-<h3 align="center"><strong>GENERATIVE AI PRODUCTS</strong></h3>
+<h3 align="center"><strong>GEN AI & APPLIED ML PRODUCTS</strong></h3>
 
 <table align="center" width="90%">
 <tr>
@@ -179,34 +151,27 @@ Add a sanitized detection pipeline, model workflow, dataset process, system boun
 <sub>GENAI · FULL-STACK IMAGE APPLICATION</sub>
 </td>
 </tr>
-</table>
-
-<br>
-
-<h3 align="center"><strong>COMPUTER VISION & APPLIED ML</strong></h3>
-
-<table align="center" width="90%">
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Road-Sense">
 <img src="https://raw.githubusercontent.com/Saitarun994/Road-Sense/main/media/roadsense-modified.png" width="220" alt="Road Sense"><br>
 <strong>Road Sense</strong>
 </a><br>
-<sub>REAL-TIME OBJECT & LANE DETECTION</sub>
+<sub>COMPUTER VISION · OBJECT & LANE DETECTION</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Mocap-for-All">
 <img src="https://raw.githubusercontent.com/Saitarun994/Mocap-for-All/main/media/mocapforall-modified.png" width="220" alt="MoCap for All"><br>
 <strong>MoCap for All</strong>
 </a><br>
-<sub>REAL-TIME POSE-BASED MOTION CAPTURE</sub>
+<sub>COMPUTER VISION · REAL-TIME POSE CAPTURE</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/poison_ivy_detection">
 <img src="https://raw.githubusercontent.com/Saitarun994/poison_ivy_detection/main/media/banner.png" width="220" alt="Poison Ivy Detection"><br>
 <strong>Poison Ivy Detection</strong>
 </a><br>
-<sub>IMAGE CLASSIFICATION</sub>
+<sub>APPLIED ML · IMAGE CLASSIFICATION</sub>
 </td>
 </tr>
 </table>
@@ -214,10 +179,6 @@ Add a sanitized detection pipeline, model workflow, dataset process, system boun
 <br>
 
 <h3 align="center"><strong>BACKEND, SYSTEMS & PRODUCT ENGINEERING</strong></h3>
-
-<p align="center">
-<strong>PROJECTS SPANNING NETWORKING, HIGH-PERFORMANCE COMPUTING, DATA SYSTEMS, AUTOMATION, AND FULL-STACK APPLICATIONS.</strong>
-</p>
 
 <table align="center" width="90%">
 <tr>
