@@ -190,11 +190,6 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Saitarun994&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
-    height="160"
-    alt="GitHub statistics"
-  >
-  <img
     src="https://streak-stats.demolab.com?user=Saitarun994&theme=transparent&hide_border=true"
     height="160"
     alt="GitHub contribution streak"
