@@ -1,15 +1,9 @@
-<h1 align="center">SAI TARUN SATHYAN</h1>
-
-<h3 align="center">
-<strong>GENAI ENGINEER · 0→1 PRODUCT BUILDER · BACKEND SYSTEMS · APPLIED ML</strong>
-</h3>
-
-<h3 align="center">
-I turn ambitious ideas into working AI products—owning architecture, backend systems, applied ML, and end-to-end delivery.
-</h3>
-
 <p align="center">
-Building independently with a founder’s mindset: move fast, solve the right problem, and ship systems that create measurable value.
+  <img
+    src="./cover.png"
+    width="100%"
+    alt="Sai Tarun Sathyan — AI Engineer"
+  >
 </p>
 
 <p align="center">
