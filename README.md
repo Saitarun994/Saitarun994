@@ -39,16 +39,15 @@
 
 ---
 
-<h2 align="center"><strong>FLAGSHIP PROJECTS</strong></h2>
-
-<p align="center">
-<strong>SELECTED SYSTEMS WITH THE STRONGEST TECHNICAL DEPTH, REAL-WORLD CONTEXT, AND MEASURABLE OUTCOMES.</strong>
-</p>
-
-<!-- SYNC -->
 <table align="center" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td align="center" colspan="6">
+<h2><strong>FLAGSHIP CASE STUDIES</strong></h2>
+<strong>SELECTED SYSTEMS WITH THE STRONGEST TECHNICAL DEPTH, REAL-WORLD CONTEXT, AND MEASURABLE OUTCOMES.</strong>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3" width="50%">
 <h3>SYNC — Agentic Crypto Intelligence</h3>
 <strong>PROBLEM</strong><br>
 Crypto users needed one reliable interface for research, market analysis, and automated workflows.<br><br>
@@ -61,20 +60,17 @@ Python · FastAPI · LangGraph · Redis · PostgreSQL · AWS<br><br>
 <a href="https://github.com/Saitarun994"><strong>VIEW CASE STUDY →</strong></a><br>
 <sub>PROPRIETARY PROJECT · SOURCE CODE NOT PUBLIC</sub>
 </td>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" colspan="3" width="50%">
 <a href="https://github.com/Saitarun994">
 <img src="https://placehold.co/900x500/161616/FFFFFF?text=SYNC+ANIMATED+PRODUCT+DEMO" width="100%" alt="SYNC product demo placeholder">
 </a>
 </td>
 </tr>
-</table>
-
-<br>
-
-<!-- HEIMDALL -->
-<table align="center" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td colspan="6"><br></td>
+</tr>
+<tr>
+<td valign="top" colspan="3" width="50%">
 <h3>Heimdall — 2D to 3D Reconstruction</h3>
 <strong>PROBLEM</strong><br>
 Static campus footage could not provide an immersive or navigable spatial experience.<br><br>
@@ -87,33 +83,30 @@ Python · OpenCV · Gaussian Splatting · NeRF · Photogrammetry<br><br>
 <a href="https://github.com/Saitarun994/Heimdall"><strong>VIEW RESEARCH CASE STUDY →</strong></a><br>
 <sub>PUBLISHED RESEARCH · IMPLEMENTATION DETAILS LIMITED</sub>
 </td>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" colspan="3" width="50%">
 <a href="https://github.com/Saitarun994/Heimdall">
 <img src="https://raw.githubusercontent.com/Saitarun994/Heimdall/main/media/heimdall-modified.png" width="100%" alt="Heimdall 2D to 3D reconstruction">
 </a>
 </td>
 </tr>
-</table>
-
-<br>
-
-<!-- PARK RIGHT -->
-<table align="center" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td colspan="6"><br></td>
+</tr>
+<tr>
+<td valign="top" colspan="3" width="50%">
 <h3>ParkRight — Intelligent Parking Detection</h3>
 <strong>PROBLEM</strong><br>
 Drivers lacked reliable information about legal and available roadside parking spaces.<br><br>
 <strong>WHAT I BUILT</strong><br>
 A computer-vision prototype that detects road regions, vehicles, and potential parking availability from camera imagery.<br><br>
 <strong>OUTCOME</strong><br>
-Company prototype · Real-world applied computer vision use case<br><br>
+Company prototype · Real-world applied computer-vision use case<br><br>
 <strong>ARCHITECTURE</strong><br>
 Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
 <a href="https://github.com/Saitarun994/Park-Right"><strong>VIEW CASE STUDY →</strong></a><br>
 <sub>COMPANY PROTOTYPE · SOURCE CODE NOT PUBLIC</sub>
 </td>
-<td align="center" valign="middle" width="50%">
+<td align="center" valign="middle" colspan="3" width="50%">
 <a href="https://github.com/Saitarun994/Park-Right">
 <img src="https://raw.githubusercontent.com/Saitarun994/Park-Right/main/media/parkright-modified.png" width="100%" alt="ParkRight intelligent parking detection">
 </a>
@@ -123,9 +116,10 @@ Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
 
 <br>
 
+  
 <h2 align="center"><strong>SELECTED PROJECTS BY SPECIALIZATION</strong></h2>
 
-<h3 align="center"><strong>GEN AI & APPLIED ML PRODUCTS</strong></h3>
+<h3 align="center"><strong>GENAI & APPLIED ML PRODUCTS</strong></h3>
 
 <table align="center" width="90%">
 <tr>
@@ -205,21 +199,21 @@ Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier">
 <img src="https://raw.githubusercontent.com/Saitarun994/Automated_Amzn_Discount_notifier/main/media/discount%20scout-modified.png" width="220" alt="Discount Scout"><br>
 <strong>Discount Scout</strong>
 </a><br>
 <sub>AUTOMATION & NOTIFICATION PIPELINE</sub>
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/SolarEnergyViz.tech">
 <img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/solarenergyviz-modified.png" width="220" alt="Solar Energy Viz"><br>
 <strong>Solar Energy Viz</strong>
 </a><br>
 <sub>DATA PROCESSING, FORECASTING & VISUALIZATION</sub>
 </td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/TerraVista">
 <img src="https://raw.githubusercontent.com/Saitarun994/TerraVista/main/media/terravista-modified.png" width="220" alt="Terra Vista"><br>
 <strong>Terra Vista</strong>
@@ -229,7 +223,7 @@ Python · OpenCV · YOLO · Roboflow · Data Pipelines<br><br>
 </tr>
 <tr>
 <td align="center">&nbsp;</td>
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/trivia-odyssey">
 <img src="https://raw.githubusercontent.com/Saitarun994/trivia-odyssey/main/media/triviaodyssey-modified.png" width="220" alt="Trivia Odyssey"><br>
 <strong>Trivia Odyssey</strong>
