@@ -86,7 +86,7 @@
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/tale-forge">
-<img src="https://raw.githubusercontent.com/Saitarun994/tale-forge/main/media/taleforge-modified.png" width="220" alt="Tale Forge"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/tale-forge/main/media/tile.png" width="220" alt="Tale Forge"><br>
 <strong>Tale Forge</strong>
 </a><br>
 <sub>GENAI · STORY & IMAGE GENERATION</sub>
