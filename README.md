@@ -1,43 +1,49 @@
-<h1 align="center">
-<img src="/s-prof-banner-modified.png" >
-</h1> 
+<h1 align="center">SAI TARUN SATHYAN</h1>
 
-### 💫 About Me:
+<h3 align="center">
+<strong>GENAI ENGINEER · 0→1 PRODUCT BUILDER · BACKEND SYSTEMS · APPLIED ML</strong>
+</h3>
 
-| Yep thats me | Im a night owl |
-|---|---|
-| ![Coder GIF](coder.gif) |I’m an AI engineer with experience across backend systems, data pipelines, applied ML, and AI products.My specialization is generative AI and computer vision. |
+<h3 align="center">
+I turn ambitious ideas into working AI products—owning architecture, backend systems, applied ML, and end-to-end delivery.
+</h3>
 
+<p align="center">
+Building independently with a founder’s mindset: move fast, solve the right problem, and ship systems that create measurable value.
+</p>
 
----
+<p align="center">
+<a href="https://www.linkedin.com/in/saitarun994">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn">
+</a>
+<a href="https://devpost.com/taruns994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+<img src="https://img.shields.io/badge/Devpost-Projects-003E54?style=flat-square&logo=devpost&logoColor=white" height="24" alt="Devpost">
+</a>
+<a href="https://iq.wiki/wiki/sai-tarun-sathyan">
+<img src="https://img.shields.io/badge/Crypto_Wiki-Profile-111111?style=flat-square" height="24" alt="Crypto Wiki">
+</a>
+<a href="mailto:taruns994@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email">
+</a>
+<a href="https://scholar.google.com/citations?user=0gB2SkUAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" height="24" alt="Google Scholar">
+</a>
+</p>
 
-## 💻 Tech Stack:
-<div align="center">
-<img  alt="java" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="python" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >&nbsp;&nbsp;&nbsp;
-<img alt="c++" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="javascript" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="Typescript" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="node.js" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
-</br>
-<img  alt="html" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="css" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="react" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="figma" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="TailwindCSS" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;&nbsp;
-</br>
-<img  alt="FastApi" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="MongoDB" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="Postgres" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="Redis" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="Docker" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="AWS" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="Google-cloud" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">&nbsp;&nbsp;&nbsp;
-<img  alt="Postman" width="7%" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">&nbsp;&nbsp;&nbsp;
-</div>
-</br>
-
----
+<p align="center">
+<a href="https://devpost.com/taruns994?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+<img src="https://img.shields.io/badge/MLH-2x_Hackathon_Winner-FBDB00?style=flat-square&logo=majorleaguehacking&logoColor=000000" height="24" alt="Two-time MLH hackathon winner">
+</a>
+<a href="YOUR_AWS_CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=credly&logoColor=white" height="24" alt="AWS Cloud Practitioner">
+</a>
+<a href="YOUR_GOOGLE_CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/Google-UX_Design_Certificate-4285F4?style=flat-square&logo=google&logoColor=white" height="24" alt="Google UX Design Certificate">
+</a>
+<a href="https://arxiv.org/abs/2308.04079">
+<img src="https://img.shields.io/badge/Research-Published-0B57D0?style=flat-square&logo=googlescholar&logoColor=white" height="24" alt="Published research">
+</a>
+</p>
 
 <h2 align="center"><strong>FLAGSHIP WORK</strong></h2>
 
