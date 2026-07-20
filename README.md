@@ -93,7 +93,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Good-Neighbor">
-<img src="https://raw.githubusercontent.com/Saitarun994/Good-Neighbor/main/goodneighbor-modified.png" width="220" alt="Good Neighbor"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Good-Neighbor/main/tile.png" width="220" alt="Good Neighbor"><br>
 <strong>Good Neighbor</strong>
 </a><br>
 <sub>GENAI · FULL-STACK COMMUNITY PLATFORM</sub>
