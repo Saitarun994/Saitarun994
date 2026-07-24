@@ -100,7 +100,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/pixigen">
-<img src="https://raw.githubusercontent.com/Saitarun994/pixigen/main/media/tile.png" width="180" alt="Pixigen"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/pixigen/main/media/tile.png" width="170" alt="Pixigen"><br>
 <strong>Pixigen</strong>
 </a><br>
 <sub>GENAI · FULL-STACK IMAGE APPLICATION</sub>
