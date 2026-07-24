@@ -29,7 +29,7 @@
 
 <a href="https://github.com/Saitarun994/SYNC">
   <img
-    src="https://placehold.co/1200x500/161616/FFFFFF?text=SYNC+%E2%80%94+AGENTIC+CRYPTO+INTELLIGENCE"
+    src="https://raw.githubusercontent.com/Saitarun994/SYNC/refs/heads/main/media/banner.png"
     width="100%"
     alt="SYNC agentic crypto intelligence platform"
   >
