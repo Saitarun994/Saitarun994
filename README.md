@@ -45,7 +45,7 @@
 
 <a href="https://github.com/Saitarun994/Heimdall">
   <img
-    src="https://github.com/Saitarun994/Heimdall/blob/main/media/cover.png"
+    src="https://github.com/Saitarun994/Heimdall/blob/main/media/banner.png"
     width="100%"
     alt="Heimdall 2D-to-3D reconstruction research"
   >
