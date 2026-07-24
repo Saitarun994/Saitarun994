@@ -61,7 +61,7 @@
 
 <a href="https://github.com/Saitarun994/Park-Right">
   <img
-    src="https://github.com/Saitarun994/Park-Right/blob/main/media/cover.png"
+    src="https://github.com/Saitarun994/Park-Right/blob/main/media/banner.png"
     width="100%"
     alt="ParkRight intelligent parking detection prototype"
   >
