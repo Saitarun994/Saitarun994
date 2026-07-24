@@ -86,21 +86,21 @@
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/tale-forge">
-<img src="https://raw.githubusercontent.com/Saitarun994/tale-forge/main/media/tile.png" width="220" alt="Tale Forge"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/tale-forge/main/media/tile.png" width="180" alt="Tale Forge"><br>
 <strong>Tale Forge</strong>
 </a><br>
 <sub>GENAI · STORY & IMAGE GENERATION</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Good-Neighbor">
-<img src="https://raw.githubusercontent.com/Saitarun994/Good-Neighbor/main/tile.png" width="220" alt="Good Neighbor"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Good-Neighbor/main/tile.png" width="180" alt="Good Neighbor"><br>
 <strong>Good Neighbor</strong>
 </a><br>
 <sub>GENAI · FULL-STACK COMMUNITY PLATFORM</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/pixigen">
-<img src="https://raw.githubusercontent.com/Saitarun994/pixigen/main/media/tile.png" width="220" alt="Pixigen"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/pixigen/main/media/tile.png" width="180" alt="Pixigen"><br>
 <strong>Pixigen</strong>
 </a><br>
 <sub>GENAI · FULL-STACK IMAGE APPLICATION</sub>
@@ -109,21 +109,21 @@
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Road-Sense">
-<img src="https://raw.githubusercontent.com/Saitarun994/Road-Sense/main/media/tile.png" width="220" alt="Road Sense"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Road-Sense/main/media/tile.png" width="180" alt="Road Sense"><br>
 <strong>Road Sense</strong>
 </a><br>
 <sub>COMPUTER VISION · OBJECT & LANE DETECTION</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Mocap-for-All">
-<img src="https://raw.githubusercontent.com/Saitarun994/Mocap-for-All/main/media/tile.png" width="220" alt="MoCap for All"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Mocap-for-All/main/media/tile.png" width="180" alt="MoCap for All"><br>
 <strong>MoCap for All</strong>
 </a><br>
 <sub>COMPUTER VISION · REAL-TIME POSE CAPTURE</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/poison_ivy_detection">
-<img src="https://raw.githubusercontent.com/Saitarun994/poison_ivy_detection/main/media/tile.png" width="220" alt="Poison Ivy Detection"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/poison_ivy_detection/main/media/tile.png" width="180" alt="Poison Ivy Detection"><br>
 <strong>Poison Ivy Detection</strong>
 </a><br>
 <sub>APPLIED ML · IMAGE CLASSIFICATION</sub>
@@ -142,21 +142,21 @@
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Custom-Reliable-UDP-Protocol">
-<img src="https://raw.githubusercontent.com/Saitarun994/Custom-Reliable-UDP-Protocol/main/tile.png" width="220" alt="Reliable UDP"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Custom-Reliable-UDP-Protocol/main/tile.png" width="180" alt="Reliable UDP"><br>
 <strong>Reliable UDP</strong>
 </a><br>
 <sub>NETWORK PROTOCOL ENGINEERING</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Parallelized-LSH-for-ANN">
-<img src="https://raw.githubusercontent.com/Saitarun994/Parallelized-LSH-for-ANN/main/media/tile.png" width="220" alt="Parallelized LSH"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Parallelized-LSH-for-ANN/main/media/tile.png" width="180" alt="Parallelized LSH"><br>
 <strong>Parallelized LSH</strong>
 </a><br>
 <sub>HIGH-PERFORMANCE APPROXIMATE SEARCH</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/intrusion_detection_system">
-<img src="https://raw.githubusercontent.com/Saitarun994/intrusion_detection_system/main/media/tile.png" width="220" alt="Intrusion Detection System"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/intrusion_detection_system/main/media/tile.png" width="180" alt="Intrusion Detection System"><br>
 <strong>Intrusion Detection</strong>
 </a><br>
 <sub>NETWORK ANOMALY DETECTION</sub>
@@ -165,21 +165,21 @@
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/Automated_Amzn_Discount_notifier">
-<img src="https://raw.githubusercontent.com/Saitarun994/Automated_Amzn_Discount_notifier/main/media/tile.png" width="220" alt="Discount Scout"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/Automated_Amzn_Discount_notifier/main/media/tile.png" width="180" alt="Discount Scout"><br>
 <strong>Discount Scout</strong>
 </a><br>
 <sub>AUTOMATION & NOTIFICATION PIPELINE</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/SolarEnergyViz.tech">
-<img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/tile.png" width="220" alt="Solar Energy Viz"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/SolarEnergyViz.tech/main/tile.png" width="180" alt="Solar Energy Viz"><br>
 <strong>Solar Energy Viz</strong>
 </a><br>
 <sub>DATA PROCESSING, FORECASTING & VISUALIZATION</sub>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/TerraVista">
-<img src="https://raw.githubusercontent.com/Saitarun994/TerraVista/main/media/tile.png" width="220" alt="Terra Vista"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/TerraVista/main/media/tile.png" width="180" alt="Terra Vista"><br>
 <strong>Terra Vista</strong>
 </a><br>
 <sub>FULL-STACK LOCAL DISCOVERY PLATFORM</sub>
@@ -189,7 +189,7 @@
 <td align="center">&nbsp;</td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/Saitarun994/trivia-odyssey">
-<img src="https://raw.githubusercontent.com/Saitarun994/trivia-odyssey/main/media/tile.png" width="220" alt="Trivia Odyssey"><br>
+<img src="https://raw.githubusercontent.com/Saitarun994/trivia-odyssey/main/media/tile.png" width="180" alt="Trivia Odyssey"><br>
 <strong>Trivia Odyssey</strong>
 </a><br>
 <sub>FULL-STACK LOCATION-BASED TRIVIA APP</sub>
