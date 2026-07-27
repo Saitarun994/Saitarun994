@@ -37,7 +37,7 @@
 
 <p align="center">
   <strong>SYNC</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Saitarun994/SYNC"><strong>READ MORE →</strong></a><br>
+  <a href="https://github.com/Saitarun994/SYNC"><strong>READ CASE STUDY →</strong></a><br>
   <sub>10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS</sub>
 </p>
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   <strong>HEIMDALL</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Saitarun994/Heimdall"><strong>READ MORE →</strong></a><br>
+  <a href="https://github.com/Saitarun994/Heimdall"><strong>READ CASE STUDY →</strong></a><br>
   <sub>PUBLISHED RESEARCH · CAMPUS-SCALE PIPELINE &nbsp;|&nbsp; PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <strong>PARKRIGHT</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Saitarun994/Park-Right"><strong>READ MORE →</strong></a><br>
+  <a href="https://github.com/Saitarun994/Park-Right"><strong>READ CASE STUDY →</strong></a><br>
   <sub>COMPANY PROTOTYPE · REAL-WORLD CV &nbsp;|&nbsp; PYTHON · OPENCV · YOLO · ROBOFLOW</sub>
 </p>
 
