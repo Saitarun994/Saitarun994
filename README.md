@@ -25,6 +25,10 @@
 
 <p align="center"><a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="20" alt="LangChain"></a><a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/LangGraph-0B3D2E?style=for-the-badge" height="20" alt="LangGraph"></a><a href="https://ai.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="20" alt="Pydantic AI"></a><a href="https://cloud.google.com/vertex-ai"><img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="20" alt="Vertex AI"></a><a href="https://github.com/Comfy-Org/ComfyUI"><img src="https://img.shields.io/badge/ComfyUI-111111?style=for-the-badge" height="20" alt="ComfyUI"></a><a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" height="20" alt="Hugging Face"></a></p>
 
+
+
+
+
 <h2 align="center"><strong>FLAGSHIP WORK</strong></h2>
 
 <a href="https://github.com/Saitarun994/SYNC">
@@ -37,8 +41,9 @@
 
 <p align="center">
   <strong>SYNC</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Saitarun994/SYNC"><strong>READ CASE STUDY →</strong></a><br>
-  <sub>10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS</sub>
+  <img src="https://img.shields.io/badge/CASE_STUDY-SOURCE_PRIVATE_%C2%B7_NDA-7F1D1D?style=flat&labelColor=991B1B" height="24" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
+  <a href="https://github.com/Saitarun994/SYNC"><strong>READ CASE STUDY →</strong></a> <br>
+  <sub>STARTUP · 10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS ·</sub>
 </p>
 
 ---
@@ -53,8 +58,9 @@
 
 <p align="center">
   <strong>HEIMDALL</strong> &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/RESEARCH_CASE_STUDY-SOURCE_PRIVATE-7F1D1D?style=flat&labelColor=991B1B" height="24" align="absmiddle" alt="Research case study — source private">&nbsp;|&nbsp;
   <a href="https://github.com/Saitarun994/Heimdall"><strong>READ CASE STUDY →</strong></a><br>
-  <sub>PUBLISHED RESEARCH · CAMPUS-SCALE PIPELINE &nbsp;|&nbsp; PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF</sub>
+  <sub>PUBLISHED RESEARCH · CAMPUS-SCALE PIPELINE &nbsp;|&nbsp; PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF ·</sub>
 </p>
 
 ---
@@ -69,8 +75,9 @@
 
 <p align="center">
   <strong>PARKRIGHT</strong> &nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/CASE_STUDY-SOURCE_PRIVATE_%C2%B7_NDA-7F1D1D?style=flat&labelColor=991B1B" height="24" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
   <a href="https://github.com/Saitarun994/Park-Right"><strong>READ CASE STUDY →</strong></a><br>
-  <sub>COMPANY PROTOTYPE · REAL-WORLD CV &nbsp;|&nbsp; PYTHON · OPENCV · YOLO · ROBOFLOW</sub>
+  <sub>GOVERNMENT CONTRACT PROJECT · REAL-WORLD CV &nbsp;|&nbsp; PYTHON · OPENCV · YOLO · ROBOFLOW ·</sub>
 </p>
 
 
