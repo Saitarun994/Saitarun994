@@ -41,9 +41,9 @@
 
 <p align="center">
   <strong>SYNC</strong> &nbsp;|&nbsp;
-  <img src="https://img.shields.io/badge/CASE_STUDY-SOURCE_PRIVATE_%C2%B7_NDA-7F1D1D?style=flat&labelColor=991B1B" height="24" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/NDA_-_SOURCE_CODE_PRIVATE-27272A?style=flat&labelColor=991B1B" height="26" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
   <a href="https://github.com/Saitarun994/SYNC"><strong>READ CASE STUDY →</strong></a> <br>
-  <sub>STARTUP · 10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS ·</sub>
+  <sub>STARTUP · 10K+ SIGNUPS · 800 TESTERS &nbsp;|&nbsp; PYTHON · FASTAPI · LANGGRAPH · AWS </sub>
 </p>
 
 ---
@@ -58,9 +58,9 @@
 
 <p align="center">
   <strong>HEIMDALL</strong> &nbsp;|&nbsp;
-  <img src="https://img.shields.io/badge/RESEARCH_CASE_STUDY-SOURCE_PRIVATE-7F1D1D?style=flat&labelColor=991B1B" height="24" align="absmiddle" alt="Research case study — source private">&nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/RESEARCH_-_SOURCE_CODE_PRIVATE-27272A?style=flat&labelColor=1D4ED8" height="26" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
   <a href="https://github.com/Saitarun994/Heimdall"><strong>READ CASE STUDY →</strong></a><br>
-  <sub>PUBLISHED RESEARCH · CAMPUS-SCALE PIPELINE &nbsp;|&nbsp; PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF ·</sub>
+  <sub>PUBLISHED RESEARCH · CAMPUS-SCALE PIPELINE &nbsp;|&nbsp; PYTHON · OPENCV · GAUSSIAN SPLATTING · NERF </sub>
 </p>
 
 ---
@@ -75,9 +75,9 @@
 
 <p align="center">
   <strong>PARKRIGHT</strong> &nbsp;|&nbsp;
-  <img src="https://img.shields.io/badge/CASE_STUDY-SOURCE_PRIVATE_%C2%B7_NDA-7F1D1D?style=flat&labelColor=991B1B" height="24" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
+  <img src="https://img.shields.io/badge/NDA_-_SOURCE_CODE_PRIVATE-27272A?style=flat&labelColor=991B1B" height="26" align="absmiddle" alt="Case study — source private under NDA">&nbsp;|&nbsp;
   <a href="https://github.com/Saitarun994/Park-Right"><strong>READ CASE STUDY →</strong></a><br>
-  <sub>GOVERNMENT CONTRACT PROJECT · REAL-WORLD CV &nbsp;|&nbsp; PYTHON · OPENCV · YOLO · ROBOFLOW ·</sub>
+  <sub>GOVERNMENT CONTRACT PROJECT · REAL-WORLD CV &nbsp;|&nbsp; PYTHON · OPENCV · YOLO · ROBOFLOW </sub>
 </p>
 
 
